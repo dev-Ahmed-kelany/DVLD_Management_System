@@ -10,3 +10,4 @@ D:\Programming\DVLD\DVLD_Presentation_Layer\obj\Debug\DVLD_Presentation_Layer.cs
 D:\Programming\DVLD\DVLD_Presentation_Layer\obj\Debug\DVLD_Pre.C0DB5FD9.Up2Date
 D:\Programming\DVLD\DVLD_Presentation_Layer\obj\Debug\DVLD_Presentation_Layer.exe
 D:\Programming\DVLD\DVLD_Presentation_Layer\obj\Debug\DVLD_Presentation_Layer.pdb
+D:\Programming\DVLD\DVLD_Presentation_Layer\obj\Debug\DVLD_Presentation_Layer.exe.config
